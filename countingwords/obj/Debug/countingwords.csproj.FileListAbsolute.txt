@@ -1,0 +1,11 @@
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\bin\Debug\countingwords.exe.config
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\bin\Debug\countingwords.exe
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\bin\Debug\countingwords.pdb
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\obj\Debug\countingwords.csproj.AssemblyReference.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\obj\Debug\countingwords.csproj.SuggestedBindingRedirects.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\obj\Debug\countingwords.Form1.resources
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\obj\Debug\countingwords.Properties.Resources.resources
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\obj\Debug\countingwords.csproj.GenerateResource.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\obj\Debug\countingwords.csproj.CoreCompileInputs.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\obj\Debug\countingwords.exe
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\countingwords\countingwords\obj\Debug\countingwords.pdb
